@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meet Automation</title>
+</head>
+<body>
+    <form action="/external/" method="post">
+    {% csrf_token %}
+    Input Text:
+        <input type="submit" value = "StartThis"><br><br>
+        {{datat1}}
+    </form>
+</body>
+</html>
