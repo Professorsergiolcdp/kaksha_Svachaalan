@@ -1,3 +1,4 @@
+# The external link need ti be changed in run([{this need to be changed}])
 from django.shortcuts import render
 from subprocess import run
 import sys
