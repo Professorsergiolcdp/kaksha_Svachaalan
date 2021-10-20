@@ -5,7 +5,17 @@
 
 
 ## Introduction:
-    This covid has bring lots of challenge to the life of students.Daily students have to sign-in in gmeet making their life boring.So,here we come with a idea which automates the life of students.Here we make notes what teachers speaks,takes the screenshot of screen after every 5 minutes interval.Now sometimes what happens is that there is some random person joins the class and takes the class in wrong direction.So keeping this in mind we have designed a sentiment analysis system which detects negative words from the notes and send it to higher authorites.Now sometimes what happens is,due to boring lecture student sleeps in the class.So when teachers calls his name he gets a desktop notification and again starts attending the class.
+    This covid has bring lots of challenge to the life of students.
+    Daily students have to sign-in in gmeet making their life boring.So,here we
+    come with a idea which automates the life of students.Here we make
+    notes what teachers speaks,takes the screenshot of screen after every 5
+    minutes interval.Now sometimes what happens is that there is some
+    random person joins the class and takes the class in wrong direction.So
+    keeping this in mind we have designed a sentiment analysis system
+    which detects negative words from the notes and send it to higher authorites.
+    Now sometimes what happens is,due to boring lecture student sleeps
+    in the class.So when teachers calls his name he gets a desktop notification
+    and again starts attending the class.
 
 
   
