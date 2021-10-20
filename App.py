@@ -13,7 +13,6 @@ from firebase_admin import db
 from firebase import firebase
 from plyer import notification
 import pyautogui
-import pyaudio
 import pyttsx3
 import datetime
 import datetime
@@ -94,7 +93,7 @@ def takeCommand(browser,date1):
         r = sr.Recognizer()
         with sr.Microphone() as source:
             print("listening")
-            r.energy_threshold=5000
+            r.energy_threshold=100
             r.pause_threshold = 0.6
             audio = r.listen(source)   
             try:
