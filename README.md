@@ -33,6 +33,7 @@
   8) You will head on to the meet with required meet link in app.py file
   ****If you want to join your own desired meet link just head on to the app.py Line-no.-158,
     insert your meet link in the list and change the 'N' in for loop Line no-160.
+    Also go to Line -1,2...put your mail id and password there in respective fields.
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1eEPMoU6rK2aXy5mpknInf0O4vliBzu3W_ohzsjTFPiw/edit">Link for ppt </a>
 

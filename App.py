@@ -1,5 +1,5 @@
-mail_address = 'praveensaraswat00144@gmail.com'
-password = 'Gurukul@678'
+mail_address = ''#put your mail address here
+password = ''#put you password here
 import os
 import sys
 os.path.dirname(sys.executable)
