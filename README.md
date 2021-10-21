@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<a href="https://enyugma.iiitbh.ac.in/"> <img src="https://enyugma.iiitbh.ac.in/events/tech.html#top" height=20px> </a>
+<a href="https://enyugma.iiitbh.ac.in/"> <img src="https://enyugma.iiitbh.ac.in/img/enugma%20introduction.png" height=40px> </a>
 
 
 ## Introduction:
@@ -13,8 +13,8 @@
     random person joins the class and takes the class in wrong direction.So
     keeping this in mind we have designed a sentiment analysis system
     which detects negative words from the notes and send it to higher authorites.
-    Now sometimes what happens is,due to boring lecture student sleeps
-    in the class.So when teachers calls his name he gets a desktop notification
+    Now sometimes what happens is,due to some urgent work in home student gets busy
+    in work.So when teachers calls his name he gets a desktop notification
     and again starts attending the class.
 
 
@@ -28,10 +28,15 @@
 
 ## Technology Stack:
   1) Selenium
-  2) NLP
-  3) Google speech API
-  4) TextBlob
-  
+  2) Google speech API
+  3) TextBlob
+  4) Arduino IDE
+  5) Firebase
+  6) Django
+  7) TextBlob
+  8) Win10Toast
+## Hardware
+  1)NODEMCU
 
 ## Contributors:
 
@@ -40,3 +45,10 @@ Team Name: Kryptonites
 * [Praveen Saraswat](https://github.com/SaraswatPraveen)
 * [Awanish Singh](https://github.com/ak-1-1)
 * [Shiva Patel](https://github.com/Professorsergiolcdp)
+
+## WOW-FACTORS:
+  1) Desktop and LED notification on NODEMCU when name is taken in class
+  2) Harrasment check of notes
+  3) Storing every image and notes file in a date-time wise manner
+## Built-at
+  <a href="https://enyugma.iiitbh.ac.in/"> <img src="https://enyugma.iiitbh.ac.in/img/enugma%20introduction.png" height=40px> </a>
