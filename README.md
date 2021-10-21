@@ -18,7 +18,18 @@
     and again starts attending the class.
 
 
-  
+## Prerequisite
+  1) Python 3+ should be install
+## Steps to install into your system
+  1) Fork and clone the repository using git commands
+  2) Install Django and other librabries which is required in app.py file
+  3) Take ur terminal to mysite folder using the 'cd' command
+  4) Now Start the Django Server using the command "python manage.py runserver"
+  5) Copy the url generated and paste into your browser
+  6) Now press on Start meet button to start the automation
+  7) U will head on to the meet with required meet link in app.py file
+  **If you want to join your own desired meet link just head on to the app.py Line-no.-158,
+    insert your meet link in the list and change the 'N' in for loop Line no-160.
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1eEPMoU6rK2aXy5mpknInf0O4vliBzu3W_ohzsjTFPiw/edit">Link for ppt </a>
 

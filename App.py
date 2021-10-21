@@ -155,9 +155,9 @@ def web_automation(meetlink,date1):
         newname =r'notes'+dt+'.txt'
         os.rename(r"NOTES_TEXT/guru00.txt",newname)
     return None
-meet_link=['https://meet.google.com/pan-zcct-vou','https://meet.google.com/pan-zcct-vou']
+meet_link=['','']#meet-link list..edit the list to customize
 def start():
-    for _ in range(5):
+    for _ in range(N):#N=no.of meeting you want to join
         now=datetime.now()
         t_string=now.strftime("%H:%M")
         last_time="0"+str(int(t_string[1])+1)+":"+t_string[3]+t_string[4]
