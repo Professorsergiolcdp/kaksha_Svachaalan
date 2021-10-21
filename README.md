@@ -20,10 +20,10 @@
 
   
 ## Presentation Link:
-  <a href="">Link for ppt </a>
+  <a href="https://docs.google.com/presentation/d/1eEPMoU6rK2aXy5mpknInf0O4vliBzu3W_ohzsjTFPiw/edit">Link for ppt </a>
 
 ## Youtube video Link:
-  <a href="">Link for video </a>
+  <a href="https://drive.google.com/file/d/1ruVgXVeG0oyaTeiDWUAWPqZZvduvAqeV/view">Link for video </a>
 
 
 ## Technology Stack:
