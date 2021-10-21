@@ -8,5 +8,5 @@ def output(request):
     data = 2 * 2
     return render(request,'home1.html')
 def external(request):
-    out = run([sys.executable,'../../App.py'],shell=False)
+    out = run([sys.executable,'C:\\Users\\prave\\Desktop\\kaksha_Svachaalan2\\App.py'],shell=False)
     return render(request,"home1.html")

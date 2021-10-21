@@ -162,7 +162,11 @@ def start():
         t_string=now.strftime("%H:%M")
         last_time="0"+str(int(t_string[1])+1)+":"+t_string[3]+t_string[4]
         print(last_time)
-        #print(t_string)
+        print(t_string)
+        firebase1()
+        sleep(20)
+        firebase2()
+        sleep(20)
         #if t_string=='19:26':
         now1=datetime.now()
         date1=now1.strftime("%m%d%y%H%M")
